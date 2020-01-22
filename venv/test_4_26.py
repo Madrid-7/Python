@@ -1,2 +1,0 @@
-#nmsl
-print('qiangyue')

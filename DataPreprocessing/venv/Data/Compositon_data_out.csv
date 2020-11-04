@@ -1,0 +1,11 @@
+num,sex,institution,category,name,book,date
+1,m,xupt,teacher,Tom,gone with the wind,3.1
+2,w,xupt,teacher,Anna,The scarlet letter,4.3
+3,m,xupt,student,Jerry,The adventures of Tom Sawyer,3.18
+4,w,xupt,student,Cyning,Tales of two cities,5.21
+5,m,xupt,student,Peter,Pride and Prejudice,5.3
+6,m,xupt,student,Kevien,Uncle Tom's Cabin,4.27
+7,w,xupt,student,June,The old man and the sea,3.3
+8,w,xupt,teacher,Angel,Le Comte de Monte-Cristo,5.8
+9,m,xupt,teacher,Tony,The Adventures of Alice in Wonderland,5.9
+10,w,xupt,teacher,May,Gulliver's Travels,5.19

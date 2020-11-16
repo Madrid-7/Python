@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-io = r'2.xlsx'
+io = r'Data\2.xlsx'
 data = pd.read_excel(io, sheet_name = 0, usecols = [2, 3], skiprows = [1])
 
 print(data)

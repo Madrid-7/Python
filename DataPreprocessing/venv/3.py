@@ -3,15 +3,6 @@ import numpy as np              # 导入Numpy库
 
 df = pd.read_csv(r'Data\3 movie_metadata.csv', sep=',')
 
-# # 查看哪些值缺失
-# nan_all = df.isnull()      # 获得所有数据框中的N值
-# print(nan_all)          # 打印输出
-# # 查看哪些列缺失
-# nan_col1 = df.isnull().any()    # 获得含有NA的列
-# nan_col2 = df.isnull().all()    # 获得全部为NA的列
-# print(nan_col1)              # 打印输出
-# print(nan_col2)              # 打印输出
-
 #缺失值处理
 df1 = df.dropna()
 print(df1)                      # 打印输出
